@@ -1,0 +1,1 @@
+dependencies { compile files('lib/ojdbc-14.jar')}
